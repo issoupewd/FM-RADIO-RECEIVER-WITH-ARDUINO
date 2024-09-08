@@ -1,6 +1,6 @@
 # FM Radio Receiver Project
 
-![Real Picture of the FM Radio Receiver](real_pic.png)
+![Real Picture of the FM Radio Receiver](real_pic.jpg)
 
 This project is an FM radio receiver based on Arduino programming language, using the LGT8F328P microcontroller, the RDA5807M receiver module, a 0.96" OLED display, and a rotary encoder.
 
