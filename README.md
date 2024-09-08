@@ -14,7 +14,7 @@ For receiving , we use the FM module RDA5807M with the LGT8F328P microcontroller
 
 ## Script Explanation
 
-The main file is FM_RX_main.ino. The other files are used for controlling the modules, such as oled.ino, rda.ino, and encoder.ino. Create a folder named FM_RX_main and put all these files in it. Open FM_RX_main.ino to access everything.
+The main file is **FM_RX_main.ino** The other files are used for controlling the modules, such as **oled.ino**, **rda.ino**, and **encoder.ino** Create a folder named **FM_RX_main** and put all these files in it. Open **FM_RX_main.ino** to access everything.
 
 The first step in the script is to declare the necessary libraries as follows:
 - `<Wire.h>` for I2C communication.
